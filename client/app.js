@@ -158,6 +158,7 @@ function App() {
           <p>{answer}</p>
         </div>
       )}
+      <p>Support contact info@checkmydoc.net</p>
     </div>
   );
 }
